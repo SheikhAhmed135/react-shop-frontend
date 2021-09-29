@@ -1,0 +1,26 @@
+// Home banner
+
+.home-banner {
+  width: 100%;
+  height: 750px;
+}
+
+.slide {
+  position: relative;
+
+  span {
+    position: absolute;
+    bottom: 5%;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    h2 {
+      background-color: #cccccc50;
+    }
+    p {
+      background-color: #00000050;
+      color: #fff;
+      font-size: 18px;
+    }
+  }
+}

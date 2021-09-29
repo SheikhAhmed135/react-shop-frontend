@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Nexa";
+  src: url("./assets/NexaLight.otf");
+}
+
+@font-face {
+  font-family: "Bodoni";
+  src: url("./assets/BodoniXT.ttf");
+}
+
+@font-face {
+  font-family: "MontserratRegular";
+  src: url("./assets/Montserrat-Regular.otf");
+}
+
+@font-face {
+  font-family: "MontserratSemiBold";
+  src: url("./assets/Montserrat-SemiBold.otf");
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "MontserratRegular";
+} 
